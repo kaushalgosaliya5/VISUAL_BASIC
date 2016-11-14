@@ -1,0 +1,12 @@
+E:\VISUAL_BASIC\SUM\SUM\bin\Debug\SUM.exe
+E:\VISUAL_BASIC\SUM\SUM\bin\Debug\SUM.pdb
+E:\VISUAL_BASIC\SUM\SUM\bin\Debug\SUM.xml
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\ResolveAssemblyReference.cache
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\SUM.Resources.resources
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\SUM.vbproj.GenerateResource.Cache
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\SUM.exe
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\SUM.xml
+E:\VISUAL_BASIC\SUM\SUM\obj\Debug\SUM.pdb
+E:\VISUAL_BASIC\CONSOLE APPLICATION\SUM\SUM\obj\Debug\SUM.exe
+E:\VISUAL_BASIC\CONSOLE APPLICATION\SUM\SUM\obj\Debug\SUM.xml
+E:\VISUAL_BASIC\CONSOLE APPLICATION\SUM\SUM\obj\Debug\SUM.pdb

@@ -1,0 +1,9 @@
+E:\VISUAL_BASIC\STAR\STAR\bin\Debug\STAR.exe
+E:\VISUAL_BASIC\STAR\STAR\bin\Debug\STAR.pdb
+E:\VISUAL_BASIC\STAR\STAR\bin\Debug\STAR.xml
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\ResolveAssemblyReference.cache
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\STAR.Resources.resources
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\STAR.vbproj.GenerateResource.Cache
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\STAR.exe
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\STAR.xml
+E:\VISUAL_BASIC\STAR\STAR\obj\Debug\STAR.pdb

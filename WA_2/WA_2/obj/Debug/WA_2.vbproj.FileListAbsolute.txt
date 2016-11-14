@@ -1,0 +1,11 @@
+E:\VISUAL_BASIC\WA_2\WA_2\bin\Debug\WA_2.exe
+E:\VISUAL_BASIC\WA_2\WA_2\bin\Debug\WA_2.pdb
+E:\VISUAL_BASIC\WA_2\WA_2\bin\Debug\WA_2.xml
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\ResolveAssemblyReference.cache
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.Form1.resources
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.Resources.resources
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.vbproj.GenerateResource.Cache
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.exe
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.xml
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.pdb
+E:\VISUAL_BASIC\WA_2\WA_2\obj\Debug\WA_2.Form2.resources
